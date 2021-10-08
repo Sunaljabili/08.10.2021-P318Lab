@@ -1,0 +1,54 @@
+Task-1
+1.1Arrayde verilen ededlerin cemini tapan function yazin.
+1.2Bu arraye "string" gondersem onuda toplayacag,bunun qarshisini alin.
+1.3 reqem elave etmeden 1 vahid artirim.
+
+
+
+Task-2
+Bir function yaziriq,2 ededin ceminin 100 olub olmadigini ve
+2 ededden birinin 100 olub olmadigini yoxlayib,
+geriye true cavabi qaytarsin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task-3
+Kreditə götürdüyümüz pul və aylıq(necə ay ödəməliyəm)verilir.
+Pul bərabər hissələrə bölünərək hər ay verilməlidir.
+
+Məs:1000 manat götürülür, 3 ayliq.
+Ekrana yazdirilmalidir:
+1-ci ay 333manat,
+2-ci ay 333manat,
+3-cu ay 334 manat;
+
+
+
+
+
+
+
+
+
+
+
+Task-4
+Bir funksiya yaziriq, bizden string goturur parametr kimi, string olan 
+butun herfler boyukdurse ve ya kicikdirse true yazdirsin.Eksa Halda false yazdirsin.
+
+"Sərxan" => false;
+"SƏRXAN" => true;
+"sərxan" => true;
